@@ -1,2 +1,7 @@
 # database-programming-starter-repo
-Database programming starter repo with the basics needed for students to get started on MongoDB
+
+Dette starter repo indeholder alt I skal bruge til at komme i gang med MongoDB
+
+I mappen w3schools-mongodb-tutorial ligger en fil stub.js, som I kan bygge videre på.
+
+I skal udbygge stubben, så den indeholder eksempler på alle operationer fra W3Schools MongoDB tutorial
