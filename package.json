@@ -1,0 +1,23 @@
+{
+  "name": "database-programming-starter-repo",
+  "version": "1.0.0",
+  "description": "Dette starter repo indeholder alt hvad I skal bruge til at komme i gang med MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mscn-aarhustech/database-programming-starter-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mscn-aarhustech/database-programming-starter-repo/issues"
+  },
+  "homepage": "https://github.com/mscn-aarhustech/database-programming-starter-repo#readme",
+  "dependencies": {
+    "mongodb": "^7.0.0"
+  }
+}
